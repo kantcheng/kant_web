@@ -7,8 +7,7 @@
 
 ## 在线预览
 
-https://geeeeeeeek.github.io/web_tool/
-
+https://kantcheng.github.io/kant_web/
 
 ## 二次开发
 
@@ -22,5 +21,3 @@ https://geeeeeeeek.github.io/web_tool/
 - https://web-tool-omega.vercel.app/
 
 - https://web-a55.pages.dev/
-
-- https://hrzhanghuan.com
